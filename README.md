@@ -1,4 +1,4 @@
-<h3 align="center">software engineer</h3>
+<h3 align="center">software engineer student </h3>
 
 - 📫 How to reach me **azizbahloul3@gmail.com**
 
